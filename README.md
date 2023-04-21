@@ -6,3 +6,7 @@ A machine learning project made using jupyter notebook to predict the house pric
 The following includes the .html file showing the .ipynb file and the dataset used for the project:
 
 [hpp1.zip](https://github.com/Nihilty/House_price_prediction/files/11294575/hpp1.zip)
+
+Reviced model:
+
+[revisedhpp1.zip](https://github.com/Nihilty/House_price_prediction/files/11294754/revisedhpp1.zip)
